@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**abastidas77/abastidas77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola, soy Adrian!
 
-Here are some ideas to get you started:
+🎓 Estudiante de primer semestre en Desarrollo de Software  
+🚀 Apasionado por aprender programación, resolver problemas y crear cosas increíbles  
+💻 Explorando el mundo del desarrollo web, los algoritmos y la lógica de programación  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🛠️ Tecnologías y herramientas que estoy aprendiendo:
+
+- HTML5 & CSS3
+- JavaScript (básico)
+- Git & GitHub
+- Diagramas de flujo y pseudocódigo
+
+---
+
+### 📈 Mis objetivos como estudiante:
+
+- Dominar los fundamentos de la programación
+- Contribuir en proyectos pequeños y seguir aprendiendo en comunidad
+- Compartir mi progreso y ayudar a otros principiantes en el camino
+
+---
+
+### 🌱 Últimas cosas que estoy practicando:
+
+```plaintext
+✅ Condicionales (if / else)  
+✅ Bucles (for, while)  
+✅ Algoritmos sencillos  
+✅ Uso básico de GitHub
