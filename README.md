@@ -35,7 +35,3 @@
 ✅ Uso básico de GitHub
 
 
-⚡ Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:lastupdate-->
