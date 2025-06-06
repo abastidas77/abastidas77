@@ -33,3 +33,10 @@
 ✅ Bucles (for, while)  
 ✅ Algoritmos sencillos  
 ✅ Uso básico de GitHub
+
+
+⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
