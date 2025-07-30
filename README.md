@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola, soy Adrian!
 
-🎓 Estudiante de primer semestre en Desarrollo de Software  
+🎓 Estudiante de segundo semestre en Desarrollo de Software  
 🚀 Apasionado por aprender programación, resolver problemas y crear cosas increíbles  
 💻 Explorando el mundo del desarrollo web, los algoritmos y la lógica de programación  
 
